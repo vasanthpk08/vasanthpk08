@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./a_sleek_futuristic_dark_themed_tech_portfolio_b.png"
+       alt="Vasanth P.K - ECE | VLSI | Embedded Systems"
+       width="100%">
+</p>
+
+# Hey, I'm Vasanth P.K 👋
+
+### Electronics & Communication Engineering Student | VLSI | Embedded Systems | Software ⚡
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
